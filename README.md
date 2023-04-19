@@ -1,8 +1,8 @@
 # Telengana State Tourism Data Analytics
 
-## This is the analysis of the tourism activity in Telangana, India from the year 2016 to 2019. A raw data was provided by the [Govt of Telangana](https://data.telangana.gov.in/search/?theme=Tourism%20and%20Culture).
+### This is the analysis of the tourism activity in Telangana, India from the year 2016 to 2019. A raw data was provided by the [Govt of Telangana](https://data.telangana.gov.in/search/?theme=Tourism%20and%20Culture).
 
-## This project is the submission to the ongoing [Codebasics](https://codebasics.io/) Resume Project Challenge:- [Providing Insights to Telangana Government Tourism Department](https://codebasics.io/challenge/codebasics-resume-project-challenge)
+### This project is the submission to the ongoing [Codebasics](https://codebasics.io/) Resume Project Challenge:- [Providing Insights to Telangana Government Tourism Department](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
 ## Tools used:-
 - Python: Data cleaning
